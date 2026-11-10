@@ -1,5 +1,7 @@
 # For all things Goose Patrol
 
+Architecture PDF - [Arch1][https://docs.google.com/document/d/1AS9eH5VDcQhFSVhT94bQW-wHgc1HU9hi5MFUkiYivBY/edit?usp=sharing](url)
+
 First Draft of class diagram (9/10/26)
 ![classDiagramUploadError](classDiagrams/classDiagramDraft1.png)
 
