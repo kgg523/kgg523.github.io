@@ -26,3 +26,9 @@ Second Draft of class diagram (16/10/26)
 
 Third Draft of class diagram (23/10/26)
 ![classDiagramUploadError](classDiagrams/classDiagramDraft3.png)
+
+## State Diagrams 
+
+Peck player and Med kit state diagrams
+
+![StateDiagramUploadError](stateDiagrams)
