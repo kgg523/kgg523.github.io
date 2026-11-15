@@ -2,7 +2,7 @@
 
 ## Links to files and github repository
 
-Requirements PDF - [Req1](pdfs/Req.pdf)
+Requirements PDF - [Req1](pdfs/Req1.pdf)
 
 Architecture PDF - [Arch1](pdfs/Arch1.pdf)
 
