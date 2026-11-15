@@ -14,7 +14,7 @@ Implementation PDF - [Impl1](pdfs/Impl1.pdf)
 
 The executable JAR of the game - [JAR](pdfs/GoosePatrol-1.0.0.jar)
 
-Your team's version-control repository - [Goose Patrol Project](https://github.com/kgg523/goose-patrol-project)
+Our team's version-control repository - [Goose Patrol Project](https://github.com/kgg523/goose-patrol-project)
 
 ## Class Diagram Evolution
 
